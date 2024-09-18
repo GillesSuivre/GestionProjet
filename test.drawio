@@ -7,6 +7,15 @@
         <mxCell id="OBkY2kfPxW0D6PysHh5G-2" value="organiser la fête de l&#39;école" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="90" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jxlgiE20wNtmNgoKEFuO-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jxlgiE20wNtmNgoKEFuO-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jxlgiE20wNtmNgoKEFuO-1" target="OBkY2kfPxW0D6PysHh5G-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
