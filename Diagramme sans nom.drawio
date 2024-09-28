@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2112" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
         <mxCell id="1749" value="Quels sont les concepts du projet 1 BioFuel ?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#6F0000;strokeWidth=3;fillColor=#a20025;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="380.5" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1753" value="Coût Global : 1.25 Mrds GC" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1753" value="Coût Global &lt;br&gt;1.25 Mrds GC" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="260" y="383" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
@@ -67,7 +67,7 @@
             <mxPoint x="1080" y="359" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1780" value="organigramme" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1780" value="projet sorti" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="495" y="254.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iDHe0-WgaR2ZryKW1Erz-1783" value="Instruments" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
@@ -81,14 +81,8 @@
             <mxPoint x="810" y="564.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1788" value="Gouvernance" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="383.9999999999999" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1789" value="PR" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="870" y="385.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1790" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iDHe0-WgaR2ZryKW1Erz-1788" target="iDHe0-WgaR2ZryKW1Erz-1789">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1788" value="Gouvernance&lt;br&gt;comité de pilotage" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#008a00;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="385.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iDHe0-WgaR2ZryKW1Erz-1792" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="iDHe0-WgaR2ZryKW1Erz-1796" source="1749">
           <mxGeometry relative="1" as="geometry">
@@ -203,6 +197,30 @@
         </mxCell>
         <mxCell id="iDHe0-WgaR2ZryKW1Erz-1827" value="&lt;br&gt;&lt;div&gt;extinction&lt;/div&gt;30 M GC&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="iDHe0-WgaR2ZryKW1Erz-1840">
           <mxGeometry y="207.5" width="110.00000000000001" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1841" value="organigramme" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1789" value="MOA" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="356" width="80" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1845" value="MOE" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="930" y="426" width="80" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1849" value="&lt;b&gt;AMOA&lt;/b&gt; &lt;br&gt;Tara Flint" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="262.25" width="80" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1850" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Comité direction &lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Président&lt;/u&gt;: Jakob Niles&lt;/div&gt;&lt;div&gt;&lt;u&gt;vice présidente&lt;/u&gt; : Lena Kostas&lt;/div&gt;&lt;div&gt;&lt;u&gt;secrétaire général&lt;/u&gt; : Rajeev Singh&lt;br&gt;&lt;u&gt;directeur logistique&lt;/u&gt; : Hiro Tanaka&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="330" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1851" value="&lt;div&gt;&lt;b&gt;Porteur de Projet&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;U&lt;/b&gt;nion &lt;b&gt;F&lt;/b&gt;édérale des &lt;b&gt;P&lt;/b&gt;ays&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="240" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1852" value="&lt;div&gt;&lt;u&gt;directeur exploitation&lt;/u&gt; : Dalil Kadiry&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;DRH&lt;/u&gt; : Laura Lopez&lt;br&gt;&lt;u&gt;directeur commercial&lt;/u&gt; : Christian Yameogo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="550" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDHe0-WgaR2ZryKW1Erz-1853" value="&lt;div&gt;&lt;b&gt;Chef de Projet&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;ceo&lt;/u&gt;: Alberto Lopez&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="470.5" width="140" height="54.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
