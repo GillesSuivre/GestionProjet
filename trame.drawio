@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Page-1" id="CLKjj0uphk9o_yIqqThG">
-    <mxGraphModel dx="2876" dy="3468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4924" dy="4598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,9 +95,6 @@
         </mxCell>
         <mxCell id="VC-tiXhj3lt7oMg_6m5k-38" value="innovant" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=3;fillColor=#82b366;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="-420" y="-1363.2499999999998" width="80" height="53.25" as="geometry" />
-        </mxCell>
-        <mxCell id="VC-tiXhj3lt7oMg_6m5k-39" value="&lt;div&gt;Phases : &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Exploration de Planatus&lt;/div&gt;&lt;div&gt;2. Culture de l&#39; Ignifolia Energia&lt;/div&gt;&lt;div&gt;3. Mise en place conversion&lt;/div&gt;&lt;div&gt;4. Création réseau distribution&lt;/div&gt;&lt;div&gt;5. Marketing &amp;amp; communication&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#001DBC;strokeWidth=3;fillColor=#0050ef;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="-797.75" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VC-tiXhj3lt7oMg_6m5k-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.505;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VC-tiXhj3lt7oMg_6m5k-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
